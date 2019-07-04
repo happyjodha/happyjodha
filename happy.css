@@ -52,3 +52,45 @@
 	{
 		background-color: lightblue;
 	}		
+	.german
+	{
+	font-size:30px;
+	margin-left: 5%;
+	}	
+.bio
+{
+	
+	font-size:30px;
+	margin-left: 5%;
+}
+.stage
+{
+font-size: 36px;
+margin-left: 7%;
+}
+.study
+{
+margin-left: 5%;
+font-size: 36px;	
+}
+.footer {
+   
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:black;
+   color: white;
+   text-align: center;
+ }  
+ .quali
+ {
+ 	font-size:36px;
+ 	margin-left: 7%;
+ }
+ .b
+ {
+ 	font-size: 32px;
+ 	margin-left: 5%;
+ }
+
+ 	
